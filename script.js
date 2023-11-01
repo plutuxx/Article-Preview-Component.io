@@ -9,11 +9,11 @@ let mobilePage = false;
 
 //Function to know the size of page and execute tooltip changs
 function pageSizeCheck() {
-  if (window.innerWidth <= 375) {
+  if (window.innerWidth <= 767) {
     mobilePage = true;
     tooltip.style.top = "0";
     tooltip.style.right = "0";
-  } else if (window.innerWidth > 375) {
+  } else if (window.innerWidth > 767) {
     mobilePage = false;
     tooltip.style.top = "-172%";
     tooltip.style.right = "";
