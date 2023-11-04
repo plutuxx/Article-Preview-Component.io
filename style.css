@@ -5,11 +5,6 @@
     --Light-Grayish-Blue: hsl(210, 46%, 95%);
 }
 
-/* - Very Dark Grayish Blue (hover Bg): hsl(217, 19%, 35%)
-- Desaturated Dark Blue (circle hover bg): hsl(214, 17%, 51%)
-- Grayish Blue: hsl(212, 23%, 69%)
-- Light Grayish Blue (Bg): hsl(210, 46%, 95%) */
-
 @font-face {
     font-family: "Manrope";
     src: url(font/Manrope-VariableFont_wght.ttf);
